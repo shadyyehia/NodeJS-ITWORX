@@ -1,5 +1,9 @@
 # NodeJS-ITWORX
 
+You can browse the solution on heroku website : 
+https://murmuring-meadow-22209.herokuapp.com/home
+https://murmuring-meadow-22209.herokuapp.com/products
+
 to run the application run first
 npm install
 
